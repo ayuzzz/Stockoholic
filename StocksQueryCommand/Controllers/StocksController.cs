@@ -9,7 +9,7 @@ namespace StocksQueryCommand.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class WeatherForecastController : ControllerBase
+    public class StocksController : ControllerBase
     {
     }
 }
